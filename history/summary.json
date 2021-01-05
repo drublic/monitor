@@ -22,19 +22,19 @@
     "url": "https://workingdraft.de",
     "icon": "https://favicons.githubusercontent.com/workingdraft.de",
     "slug": "working-draft",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1290,
-    "timeDay": 1290,
-    "timeWeek": 1290,
-    "timeMonth": 1290,
-    "timeYear": 1290,
+    "status": "up",
+    "uptime": "82.60%",
+    "uptimeDay": "82.60%",
+    "uptimeWeek": "82.60%",
+    "uptimeMonth": "82.60%",
+    "uptimeYear": "82.60%",
+    "time": 1452,
+    "timeDay": 1452,
+    "timeWeek": 1452,
+    "timeMonth": 1452,
+    "timeYear": 1452,
     "dailyMinutesDown": {
-      "2021-01-05": 0
+      "2021-01-05": 28
     }
   },
   {
