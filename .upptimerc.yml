@@ -8,6 +8,10 @@ sites:
     url: https://www.drublic.de
   - name: Working Draft
     url: https://workingdraft.de
+  - name: Warhol
+    url: https://www.warhol.io/
+  - name: FYEO
+    url: https://www.fyeo.de/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
