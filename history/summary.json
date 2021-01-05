@@ -22,18 +22,20 @@
     "url": "https://workingdraft.de",
     "icon": "https://favicons.githubusercontent.com/workingdraft.de",
     "slug": "working-draft",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1290,
     "timeDay": 1290,
     "timeWeek": 1290,
     "timeMonth": 1290,
     "timeYear": 1290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-05": 0
+    }
   },
   {
     "name": "Warhol",
