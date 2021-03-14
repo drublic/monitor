@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/workingdraft.de",
     "slug": "working-draft",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "96.96%",
-    "uptimeYear": "96.56%",
+    "uptimeYear": "96.59%",
     "time": 1109,
     "timeDay": 897,
-    "timeWeek": 1010,
+    "timeWeek": 1012,
     "timeMonth": 998,
     "timeYear": 1109,
     "dailyMinutesDown": {
@@ -82,9 +82,9 @@
     "url": "https://www.warhol.io/",
     "icon": "https://favicons.githubusercontent.com/www.warhol.io",
     "slug": "warhol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 218,
     "timeMonth": 269,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-14": 0
+    }
   },
   {
     "name": "FYEO",
