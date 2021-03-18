@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 625,
-    "timeWeek": 676,
-    "timeMonth": 703,
-    "timeYear": 812,
+    "time": 811,
+    "timeDay": 688,
+    "timeWeek": 665,
+    "timeMonth": 701,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/workingdraft.de",
     "slug": "working-draft",
     "status": "up",
-    "uptime": "96.98%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "96.98%",
+    "uptime": "96.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "96.86%",
     "time": 1099,
-    "timeDay": 915,
-    "timeWeek": 939,
-    "timeMonth": 996,
+    "timeDay": 999,
+    "timeWeek": 948,
+    "timeMonth": 997,
     "timeYear": 1099,
     "dailyMinutesDown": {
-      "2021-03-17": 9,
       "2021-03-16": 136,
       "2021-03-15": 72,
       "2021-03-09": 45,
@@ -73,7 +72,7 @@
       "2021-01-15": 236,
       "2021-01-14": 52,
       "2021-01-13": 189,
-      "2021-01-12": 43
+      "2021-01-12": 183
     }
   },
   {
@@ -87,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 268,
-    "timeWeek": 249,
-    "timeMonth": 255,
-    "timeYear": 353,
+    "time": 350,
+    "timeDay": 149,
+    "timeWeek": 234,
+    "timeMonth": 247,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -105,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 311,
-    "timeWeek": 227,
+    "time": 254,
+    "timeDay": 213,
+    "timeWeek": 228,
     "timeMonth": 220,
-    "timeYear": 255,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   }
 ]
