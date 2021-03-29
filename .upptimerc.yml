@@ -6,8 +6,6 @@ repo: monitor # Your GitHub repository name
 sites:
   - name: Drublic
     url: https://www.drublic.de
-  - name: Working Draft
-    url: https://workingdraft.de
   - name: Warhol
     url: https://www.warhol.io/
   - name: FYEO
