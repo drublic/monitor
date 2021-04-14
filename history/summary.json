@@ -40,17 +40,17 @@
     "url": "https://www.fyeo.de/",
     "icon": "https://favicons.githubusercontent.com/www.fyeo.de",
     "slug": "fyeo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 253,
-    "timeWeek": 262,
-    "timeMonth": 298,
-    "timeYear": 269,
+    "time": 268,
+    "timeDay": 215,
+    "timeWeek": 248,
+    "timeMonth": 294,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   }
 ]
